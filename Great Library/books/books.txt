@@ -1,0 +1,364 @@
+1|To Kill a Mockingbird|Harper Lee|fiction|0|x|0
+2|1984|George Orwell|dystopian|0|x|0
+3|Pride and Prejudice|Jane Austen|romance|0|x|0
+4|The Great Gatsby|F. Scott Fitzgerald|fiction|0|x|0
+5|Moby-Dick|Herman Melville|adventure|0|x|0
+6|War and Peace|Leo Tolstoy|historical|0|x|0
+7|The Catcher in the Rye|J.D. Salinger|fiction|0|x|0
+8|Brave New World|Aldous Huxley|dystopian|0|x|0
+9|Les Misérables|Victor Hugo|historical|0|x|0
+10|Jane Eyre|Charlotte Brontë|romance|1|alican|146
+11|Wuthering Heights|Emily Brontë|romance|0|x|0
+12|A Tale of Two Cities|Charles Dickens|historical|0|x|0
+13|Great Expectations|Charles Dickens|fiction|0|x|0
+14|David Copperfield|Charles Dickens|fiction|0|x|0
+15|The Hobbit|J.R.R. Tolkien|fantasy|0|x|0
+16|The Lord of the Rings|J.R.R. Tolkien|fantasy|0|x|0
+17|The Silmarillion|J.R.R. Tolkien|fantasy|0|x|0
+18|Harry Potter and the Sorcerer's Stone|J.K. Rowling|fantasy|0|x|0
+19|Harry Potter and the Chamber of Secrets|J.K. Rowling|fantasy|0|x|0
+20|Harry Potter and the Prisoner of Azkaban|J.K. Rowling|fantasy|0|x|0
+21|Harry Potter and the Goblet of Fire|J.K. Rowling|fantasy|1|berat|145
+22|Harry Potter and the Order of the Phoenix|J.K. Rowling|fantasy|0|x|0
+23|Harry Potter and the Half-Blood Prince|J.K. Rowling|fantasy|1|berat|145
+24|Harry Potter and the Deathly Hallows|J.K. Rowling|fantasy|0|x|0
+25|The Alchemist|Paulo Coelho|fiction|0|x|0
+26|The Little Prince|Antoine de Saint-Exupery|fantasy|0|x|0
+27|Don Quixote|Miguel de Cervantes|adventure|0|x|0
+28|Love in the Time of Cholera|Gabriel Garsia Márquez|romance|0|x|0
+29|The Old Man and the Sea|Ernest Hemingway|fiction|0|x|0
+30|The Sun Also Rises|Ernest Hemingway|fiction|0|x|0
+31|The Grapes of Wrath|John Steinbeck|historical|1|berat|146
+32|Of Mice and Men|John Steinbeck|fiction|0|x|0
+33|East of Eden|John Steinbeck|fiction|0|x|0
+34|Invisible Man|Ralph Ellison|fiction|0|x|0
+35|Beloved|Toni Morrison|historical|0|x|0
+36|Song of Solomon|Toni Morrison|fiction|0|x|0
+37|Fahrenheit 451|Ray Bradbury|dystopian|0|x|0
+38|The Handmaid's Tale|Margaret Atwood|dystopian|0|x|0
+39|The Bell Jar|Sylvia Plath|fiction|0|x|0
+40|Gone with the Wind|Margaret Mitchell|historical|0|x|0
+41|Anna Karenina|Leo Tolstoy|romance|0|x|0
+42|Madame Bovary|Gustave Flaubert|romance|0|x|0
+43|The Count of Monte Cristo|Alexandre Dumas|adventure|0|x|0
+44|The Three Musketeers|Alexandre Dumas|adventure|0|x|0
+45|A Clockwork Orange|Anthony Burgess|dystopian|0|x|0
+46|The Outsiders|S.E. Hinton|fiction|0|x|0
+47|The Giver|Lois Lowry|dystopian|0|x|0
+48|The Secret Garden|Frances Hodgson Burnett|children|0|x|0
+49|Charlotte's Web|E.B. White|children|0|x|0
+50|Anne of Green Gables|L.M. Montgomery|children|0|x|0
+51|Watership Down|Richard Adams|fantasy|0|x|0
+52|The Call of the Wild|Jack London|adventure|0|x|0
+53|White Fang|Jack London|adventure|0|x|0
+54|Treasure Island|Robert Louis Stevenson|adventure|0|x|0
+55|Last Mission|Mark Reed|fiction|0|x|0
+56|Open Gate|John Carter|romance|1|LaughingCactus|146
+57|Secret Path|Peter White|adventure|1|LaughingCactus|146
+58|Hidden Truth|Henry Black|fantasy|1|GalacticNomad|146
+59|Open Gate|Anna Green|historical|1|GalacticNomad|146
+60|Deep Ocean|Laura Hill|dystopian|0|x|0
+61|Shadow Night|John Carter|science|0|x|0
+62|Last Mission|Anna Green|philosophy|0|x|0
+63|Magic Forest|Henry Black|children|0|x|0
+64|Secret Path|Anna Green|fiction|0|x|0
+65|Deep Ocean|Lily Brown|romance|0|x|0
+66|Last Mission|Laura Hill|adventure|0|x|0
+67|Secret Path|Mark Reed|fantasy|0|x|0
+68|Frozen Land|Laura Hill|historical|0|x|0
+69|Deep Ocean|Henry Black|dystopian|1|alican|146
+70|Silent Storm|Laura Hill|science|0|x|0
+71|Dark River|Laura Hill|philosophy|0|x|0
+72|Deep Ocean|Emily Stone|children|0|x|0
+73|Magic Forest|Mark Reed|fiction|0|x|0
+74|Hidden Truth|Peter White|romance|0|x|0
+75|Golden City|Anna Green|adventure|0|x|0
+76|Lost Island|John Carter|fantasy|0|x|0
+77|Dark River|Laura Hill|historical|0|x|0
+78|Last Mission|Lily Brown|dystopian|0|x|0
+79|Magic Forest|Emily Stone|science|0|x|0
+80|Last Mission|George Gray|philosophy|0|x|0
+81|Dark River|Emily Stone|children|0|x|0
+82|Magic Forest|Sophie West|fiction|0|x|0
+83|Magic Forest|Sophie West|romance|0|x|0
+84|Lost Island|George Gray|adventure|0|x|0
+85|Deep Ocean|George Gray|fantasy|0|x|0
+86|Last Mission|Emily Stone|historical|0|x|0
+87|Secret Path|John Carter|dystopian|0|x|0
+88|Golden City|Sophie West|science|0|x|0
+89|Shadow Night|Henry Black|philosophy|0|x|0
+90|Deep Ocean|John Carter|children|0|x|0
+90|Gone Girl|Gillian Flynn|Mystery|0|x|0
+91|The Girl on the Train|Paula Hawkins|Mystery|0|x|0
+92|Big Little Lies|Liane Moriarty|Mystery|0|x|0
+93|Sharp Objects|Gillian Flynn|Mystery|0|x|0
+94|The Silent Patient|Alex Michaelides|Mystery|0|x|0
+95|Rebecca|Daphne du Maurier|Mystery|0|x|0
+96|And Then There Were None|Agatha Christie|Mystery|0|x|0
+97|Murder on the Orient Express|Agatha Christie|Mystery|0|x|0
+98|The ABC Murders|Agatha Christie|Mystery|1|alican|146
+99|Death on the Nile|Agatha Christie|Mystery|0|x|0
+100|Harry Potter and the Philosopher's Stone|J.K. Rowling|Fantasy|1|MemeMachine99|146
+101|Harry Potter and the Chamber of Secrets|J.K. Rowling|Fantasy|1|MemeMachine99|146
+102|Harry Potter and the Prisoner of Azkaban|J.K. Rowling|Fantasy|0|x|0
+103|Harry Potter and the Goblet of Fire|J.K. Rowling|Fantasy|0|x|0
+104|Harry Potter and the Order of Phoenix|J.K. Rowling|Fantasy|0|x|0
+105|Harry Potter and the Half-Blood Prince|J.K. Rowling|Fantasy|0|x|0
+106|Harry Potter and the Deathly Hallows|J.K. Rowling|Fantasy|0|x|0
+107|Fantastic Beasts and Where to Find Them|J.K. Rowling|Fantasy|0|x|0
+108|The Casual Vacancy|J.K. Rowling|Fiction|0|x|0
+109|The Cuckoo's Calling|Robert Galbraith|Mystery|0|x|0
+110|The Silkworm|Robert Galbraith|Mystery|0|x|0
+111|Career of Evil|Robert Galbraith|Mystery|0|x|0
+112|Lethal White|Robert Galbraith|Mystery|0|x|0
+113|Troubled Blood|Robert Galbraith|Mystery|0|x|0
+114|The Ink Black Heart|Robert Galbraith|Mystery|0|x|0
+115|The Running Grave|Robert Galbraith|Mystery|0|x|0
+116|The Hobbit|J.R.R. Tolkien|Fantasy|0|x|0
+117|The Fellowship of the Ring|J.R.R. Tolkien|Fantasy|0|x|0
+118|The Two Towers|J.R.R. Tolkien|Fantasy|0|x|0
+119|The Return of the King|J.R.R. Tolkien|Fantasy|0|x|0
+120|The Silmarillion|J.R.R. Tolkien|Fantasy|0|x|0
+121|Children of Húrin|J.R.R. Tolkien|Fantasy|0|x|0
+122|Unfinished Tales|J.R.R. Tolkien|Fantasy|0|x|0
+123|The Fall of Gondolin|J.R.R. Tolkien|Fantasy|0|x|0
+124|Beren and Lúthien|J.R.R. Tolkien|Fantasy|0|x|0
+125|The History of Middle-earth|J.R.R. Tolkien|Fantasy|0|x|0
+126|The Name of the Wind|Patrick Rothfuss|Fantasy|0|x|0
+127|The Wise Man's Fear|Patrick Rothfuss|Fantasy|0|x|0
+128|The Slow Regard of Silent Things|Patrick Rothfuss|Fantasy|0|x|0
+129|A Game of Thrones|George R.R. Martin|Fantasy|0|x|0
+130|A Clash of Kings|George R.R. Martin|Fantasy|0|x|0
+131|A Storm of Swords|George R.R. Martin|Fantasy|0|x|0
+132|A Feast for Crows|George R.R. Martin|Fantasy|0|x|0
+133|A Dance with Dragons|George R.R. Martin|Fantasy|0|x|0
+134|Fire & Blood|George R.R. Martin|Fantasy|0|x|0
+135|The World of Ice & Fire|George R.R. Martin|Fantasy|0|x|0
+136|Nightflyers|George R.R. Martin|Fantasy|0|x|0
+137|Tuf Voyaging|George R.R. Martin|Fantasy|0|x|0
+138|Dreamsongs|George R.R. Martin|Fantasy|0|x|0
+139|The Witcher: The Last Wish|Andrzej Sapkowski|Fantasy|0|x|0
+140|The Witcher: Sword of Destiny|Andrzej Sapkowski|Fantasy|0|x|0
+141|The Witcher: Blood of Elves|Andrzej Sapkowski|Fantasy|0|x|0
+142|The Witcher: Time of Contempt|Andrzej Sapkowski|Fantasy|0|x|0
+143|The Witcher: Baptism of Fire|Andrzej Sapkowski|Fantasy|0|x|0
+144|The Witcher: The Tower of Swallow|Andrzej Sapkowski|Fantasy|0|x|0
+145|The Witcher: Lady of the Lake|Andrzej Sapkowski|Fantasy|0|x|0
+146|The Witcher: Season of Storms|Andrzej Sapkowski|Fantasy|0|x|0
+147|The Way of Kings|Brandon Sanderson|Fantasy|0|x|0
+148|Words of Radiance|Brandon Sanderson|Fantasy|0|x|0
+149|Oathbringer|Brandon Sanderson|Fantasy|0|x|0
+150|Rhythm of War|Brandon Sanderson|Fantasy|0|x|0
+151|Mistborn: The Final Empire|Brandon Sanderson|Fantasy|0|x|0
+152|Mistborn: The Well of Ascension|Brandon Sanderson|Fantasy|0|x|0
+153|Mistborn: The Hero of Ages|Brandon Sanderson|Fantasy|0|x|0
+154|Mistborn: The Alloy of Law|Brandon Sanderson|Fantasy|0|x|0
+155|Mistborn: Shadows of Self|Brandon Sanderson|Fantasy|0|x|0
+156|Mistborn: The Bands of Mourning|Brandon Sanderson|Fantasy|0|x|0
+157|Mistborn: The Lost Metal|Brandon Sanderson|Fantasy|0|x|0
+158|Elantris|Brandon Sanderson|Fantasy|0|x|0
+159|Warbreaker|Brandon Sanderson|Fantasy|0|x|0
+160|The Rithmatist|Brandon Sanderson|Fantasy|0|x|0
+161|Steelheart|Brandon Sanderson|Fantasy|0|x|0
+162|Firefight|Brandon Sanderson|Fantasy|0|x|0
+163|Calamity|Brandon Sanderson|Fantasy|0|x|0
+164|Skyward|Brandon Sanderson|Fantasy|0|x|0
+165|Starsight|Brandon Sanderson|Fantasy|0|x|0
+166|Cytonic|Brandon Sanderson|Fantasy|0|x|0
+167|The Frugal Wizard's Handbook|Brandon Sanderson|Fantasy|0|x|0
+168|Tress of the Emerald Sea|Brandon Sanderson|Fantasy|0|x|0
+169|Yumi and the Nightmare Painter|Brandon Sanderson|Fantasy|0|x|0
+170|The Sunlit Man|Brandon Sanderson|Fantasy|0|x|0
+171|The Eye of the World|Robert Jordan|Fantasy|0|x|0
+172|The Great Hunt|Robert Jordan|Fantasy|0|x|0
+173|The Dragon Reborn|Robert Jordan|Fantasy|0|x|0
+174|The Shadow Rising|Robert Jordan|Fantasy|0|x|0
+175|The Fires of Heaven|Robert Jordan|Fantasy|0|x|0
+176|Lord of Chaos|Robert Jordan|Fantasy|0|x|0
+177|A Crown of Swords|Robert Jordan|Fantasy|0|x|0
+178|The Path of Daggers|Robert Jordan|Fantasy|0|x|0
+179|Winter's Heart|Robert Jordan|Fantasy|0|x|0
+180|Crossroads of Twilight|Robert Jordan|Fantasy|0|x|0
+180|Crossroads of Twilight|Robert Jordan|Fantasy|0|x|0
+181|Knife of Dreams|Robert Jordan|Fantasy|0|x|0
+182|The Gathering Storm|Robert Jordan|Fantasy|0|x|0
+183|Towers of Midnight|Robert Jordan|Fantasy|0|x|0
+184|A Memory of Light|Robert Jordan|Fantasy|0|x|0
+185|New Spring|Robert Jordan|Fantasy|0|x|0
+186|The Blade Itself|Joe Abercrombie|Fantasy|0|x|0
+187|Before They Are Hanged|Joe Abercrombie|Fantasy|0|x|0
+188|Last Argument of Kings|Joe Abercrombie|Fantasy|0|x|0
+189|Best Served Cold|Joe Abercrombie|Fantasy|0|x|0
+190|The Heroes|Joe Abercrombie|Fantasy|0|x|0
+191|Red Country|Joe Abercrombie|Fantasy|0|x|0
+192|A Little Hatred|Joe Abercrombie|Fantasy|0|x|0
+193|The Trouble With Peace|Joe Abercrombie|Fantasy|0|x|0
+194|The Wisdom of Crowds|Joe Abercrombie|Fantasy|0|x|0
+195|The Lies of Locke Lamora|Scott Lynch|Fantasy|0|x|0
+196|Red Seas Under Red Skies|Scott Lynch|Fantasy|0|x|0
+197|The Republic of Thieves|Scott Lynch|Fantasy|0|x|0
+198|The Thorn of Emberlain|Scott Lynch|Fantasy|0|x|0
+199|The Dragon Republic|R.F. Kuang|Fantasy|0|x|0
+200|The Burning God|R.F. Kuang|Fantasy|0|x|0
+201|The Poppy War|R.F. Kuang|Fantasy|0|x|0
+202|The Fifth Season|N.K. Jemisin|Fantasy|0|x|0
+203|The Obelisk Gate|N.K. Jemisin|Fantasy|0|x|0
+204|The Stone Sky|N.K. Jemisin|Fantasy|0|x|0
+205|The City We Became|N.K. Jemisin|Fantasy|0|x|0
+206|The Hundred Thousand Kingdoms|N.K. Jemisin|Fantasy|0|x|0
+207|The Broken Earth Trilogy|N.K. Jemisin|Fantasy|0|x|0
+208|American Gods|Neil Gaiman|Fantasy|0|x|0
+209|Neverwhere|Neil Gaiman|Fantasy|0|x|0
+210|Stardust|Neil Gaiman|Fantasy|0|x|0
+211|Good Omens|Neil Gaiman|Fantasy|0|x|0
+212|Anansi Boys|Neil Gaiman|Fantasy|0|x|0
+213|The Ocean at the End of the Lane|Neil Gaiman|Fantasy|0|x|0
+214|Coraline|Neil Gaiman|Fantasy|0|x|0
+215|The Graveyard Book|Neil Gaiman|Fantasy|0|x|0
+216|Norse Mythology|Neil Gaiman|Fantasy|0|x|0
+217|The Sandman Vol. 1|Neil Gaiman|Fantasy|0|x|0
+218|The Priory of the Orange Tree|Samantha Shannon|Fantasy|0|x|0
+219|A Day of Fallen Night|Samantha Shannon|Fantasy|0|x|0
+220|The Bone Season|Samantha Shannon|Fantasy|0|x|0
+221|The Song Rising|Samantha Shannon|Fantasy|0|x|0
+222|The Mask Falling|Samantha Shannon|Fantasy|0|x|0
+223|The Dawn Chorus|Samantha Shannon|Fantasy|0|x|0
+224|The Jasmine Throne|Tasha Suri|Fantasy|0|x|0
+225|The Oleander Sword|Tasha Suri|Fantasy|0|x|0
+226|Empire of Sand|Tasha Suri|Fantasy|0|x|0
+227|Realm of Ash|Tasha Suri|Fantasy|0|x|0
+228|The Unbroken|C.L. Clark|Fantasy|0|x|0
+229|The Faithless|C.L. Clark|Fantasy|0|x|0
+230|The Traitor Baru Cormorant|Seth Dickinson|Fantasy|0|x|0
+231|The Monster Baru Cormorant|Seth Dickinson|Fantasy|0|x|0
+232|The Tyrant Baru Cormorant|Seth Dickinson|Fantasy|0|x|0
+233|The Justice of Kings|Richard Swan|Fantasy|0|x|0
+234|The Tyranny of Faith|Richard Swan|Fantasy|0|x|0
+235|The Trials of Empire|Richard Swan|Fantasy|0|x|0
+236|The Shadow of the Gods|John Gwynne|Fantasy|0|x|0
+237|The Hunger of the Gods|John Gwynne|Fantasy|0|x|0
+238|The Fury of the Gods|John Gwynne|Fantasy|0|x|0
+239|Malice|John Gwynne|Fantasy|0|x|0
+240|Valor|John Gwynne|Fantasy|0|x|0
+241|Ruin|John Gwynne|Fantasy|0|x|0
+242|Wrath|John Gwynne|Fantasy|0|x|0
+243|The Pariah|Anthony Ryan|Fantasy|0|x|0
+244|The Martyr|Anthony Ryan|Fantasy|0|x|0
+245|The Traitor|Anthony Ryan|Fantasy|0|x|0
+246|Blood Song|Anthony Ryan|Fantasy|0|x|0
+247|Tower Lord|Anthony Ryan|Fantasy|0|x|0
+248|Queen of Fire|Anthony Ryan|Fantasy|0|x|0
+249|The Wolf's Call|Anthony Ryan|Fantasy|0|x|0
+250|The Black Song|Anthony Ryan|Fantasy|1|NeonSamurai|121
+251|The Seven Deaths of Evelyn Hardcastle|Stuart Turton|Mystery|1|NeonSamurai|122
+252|The Devil and the Dark Water|Stuart Turton|Mystery|0|x|0
+253|The Last Murder at the End of the World|Stuart Turton|Mystery|0|x|0
+254|The Thursday Murder Club|Richard Osman|Mystery|0|x|0
+255|The Man Who Died Twice|Richard Osman|Mystery|0|x|0
+256|The Bullet That Missed|Richard Osman|Mystery|0|x|0
+257|The Last Devil to Die|Richard Osman|Mystery|0|x|0
+258|Magpie Murders|Anthony Horowitz|Mystery|0|x|0
+259|Moonflower Murders|Anthony Horowitz|Mystery|0|x|0
+260|The Word Is Murder|Anthony Horowitz|Mystery|0|x|0
+261|The Sentence Is Death|Anthony Horowitz|Mystery|0|x|0
+262|A Line to Kill|Anthony Horowitz|Mystery|0|x|0
+263|The Twist of a Knife|Anthony Horowitz|Mystery|0|x|0
+264|The Silkworm|Robert Galbraith|Mystery|0|x|0
+265|Career of Evil|Robert Galbraith|Mystery|0|x|0
+266|Lethal White|Robert Galbraith|Mystery|0|x|0
+267|Troubled Blood|Robert Galbraith|Mystery|0|x|0
+268|The Ink Black Heart|Robert Galbraith|Mystery|0|x|0
+269|The Running Grave|Robert Galbraith|Mystery|0|x|0
+270|The Cuckoo's Calling|Robert Galbraith|Mystery|0|x|0
+270|The Cuckoo's Calling|Robert Galbraith|Mystery|0|x|0
+271|The Silkworm|Robert Galbraith|Mystery|0|x|0
+272|Career of Evil|Robert Galbraith|Mystery|0|x|0
+273|Lethal White|Robert Galbraith|Mystery|0|x|0
+274|Troubled Blood|Robert Galbraith|Mystery|0|x|0
+275|The Ink Black Heart|Robert Galbraith|Mystery|0|x|0
+276|The Running Grave|Robert Galbraith|Mystery|0|x|0
+277|The Thursday Murder Club|Richard Osman|Mystery|0|x|0
+278|The Man Who Died Twice|Richard Osman|Mystery|0|x|0
+279|The Bullet That Missed|Richard Osman|Mystery|0|x|0
+280|The Last Devil to Die|Richard Osman|Mystery|0|x|0
+281|Magpie Murders|Anthony Horowitz|Mystery|0|x|0
+282|Moonflower Murders|Anthony Horowitz|Mystery|0|x|0
+283|The Word Is Murder|Anthony Horowitz|Mystery|0|x|0
+284|The Sentence Is Death|Anthony Horowitz|Mystery|0|x|0
+285|A Line to Kill|Anthony Horowitz|Mystery|0|x|0
+286|The Twist of a Knife|Anthony Horowitz|Mystery|0|x|0
+287|The Seven Deaths of Evelyn|Stuart Turton|Mystery|0|x|0
+288|The Devil and Dark Water|Stuart Turton|Mystery|0|x|0
+289|Last Murder at World's End|Stuart Turton|Mystery|0|x|0
+290|The Guest List|Lucy Foley|Mystery|0|x|0
+291|The Hunting Party|Lucy Foley|Mystery|0|x|0
+292|The Paris Apartment|Lucy Foley|Mystery|0|x|0
+293|The Midnight Feast|Lucy Foley|Mystery|0|x|0
+294|The Maid|Nita Prose|Mystery|0|x|0
+295|The Mystery Guest|Nita Prose|Mystery|0|x|0
+296|The It Girl|Ruth Ware|Mystery|0|x|0
+297|The Woman in Cabin 10|Ruth Ware|Mystery|0|x|0
+298|The Turn of the Key|Ruth Ware|Mystery|0|x|0
+299|The Death of Mrs. Westaway|Ruth Ware|Mystery|0|x|0
+300|One by One|Ruth Ware|Mystery|0|x|0
+301|The Sanatorium|Sarah Pearse|Mystery|0|x|0
+302|The Retreat|Sarah Pearse|Mystery|0|x|0
+303|The Therapist|B.A. Paris|Mystery|0|x|0
+304|Behind Closed Doors|B.A. Paris|Mystery|0|x|0
+305|The Breakdown|B.A. Paris|Mystery|0|x|0
+306|Bring Me Back|B.A. Paris|Mystery|0|x|0
+307|The Dilemma|B.A. Paris|Mystery|0|x|0
+308|The Prisoner|B.A. Paris|Mystery|0|x|0
+309|The Girl Before|JP Delaney|Mystery|0|x|0
+310|Believe Me|JP Delaney|Mystery|0|x|0
+311|Playing Nice|JP Delaney|Mystery|0|x|0
+312|My Darling Husband|JP Delaney|Mystery|0|x|0
+313|The Perfect Wife|JP Delaney|Mystery|0|x|0
+314|The Other Wife|JP Delaney|Mystery|0|x|0
+315|The Wife Between Us|Greer Hendricks|Mystery|0|x|0
+316|An Anonymous Girl|Greer Hendricks|Mystery|0|x|0
+317|You Are Not Alone|Greer Hendricks|Mystery|0|x|0
+318|The Golden Couple|Greer Hendricks|Mystery|0|x|0
+319|The Wife Upstairs|Rachel Hawkins|Mystery|1|toprak|146
+320|Reckless Girls|Rachel Hawkins|Mystery|1|toprak|146
+321|The Villa|Rachel Hawkins|Mystery|0|x|0
+322|The Last Thing He Told Me|Laura Dave|Mystery|0|x|0
+323|Eight Perfect Murders|Peter Swanson|Mystery|0|x|0
+324|The Kind Worth Killing|Peter Swanson|Mystery|0|x|0
+325|Her Every Fear|Peter Swanson|Mystery|0|x|0
+326|Before She Knew Him|Peter Swanson|Mystery|0|x|0
+327|Rules for Perfect Murders|Peter Swanson|Mystery|0|x|0
+328|Nine Lives|Peter Swanson|Mystery|0|x|0
+329|The Girl with the Dragon Tattoo|Stieg Larsson|Mystery|0|x|0
+330|The Girl Who Played with Fire|Stieg Larsson|Mystery|0|x|0
+331|The Girl Who Kicked the Hornet's Nest|Stieg Larsson|Mystery|0|x|0
+332|The Girl in the Spider's Web|David Lagercrantz|Mystery|0|x|0
+333|The Girl Who Takes an Eye for an Eye|David Lagercrantz|Mystery|0|x|0
+334|The Girl Who Lived Twice|David Lagercrantz|Mystery|0|x|0
+335|The Bat|Jo Nesbo|Mystery|0|x|0
+336|Cockroaches|Jo Nesbo|Mystery|0|x|0
+337|The Redbreast|Joe Biden :D|Mystery|0|x|0
+338|Nemesis|Jo Nesbo|Mystery|0|x|0
+339|The Devil's Star|Jo Nesbo|Mystery|0|x|0
+341|The Snowman|Jo Nesbo|Mystery|0|x|0
+342|The Leopard|Jo Nesbo|Mystery|0|x|0
+343|Phantom|Jo Nesbo|Mystery|0|x|0
+344|Police|Jo Nesbo|Mystery|0|x|0
+345|The Thirst|Jo Nesbo|Mystery|0|x|0
+346|Knife|Jo Nesbo|Mystery|0|x|0
+347|The Kingdom|Jo Nesbo|Mystery|0|x|0
+349|Killing Moon|Jo Nesbo|Mystery|0|x|0
+350|The Chestnut Man|Soren Sveistrup|Mystery|0|x|0
+351|The Night Ferry|Michael Robotham|Mystery|0|x|0
+352|The Secrets She Keeps|Michael Robotham|Mystery|0|x|0
+353|When She Was Good|Michael Robotham|Mystery|0|x|0
+354|Good Girl, Bad Girl|Michael Robotham|Mystery|0|x|0
+355|When You Are Mine|Michael Robotham|Mystery|0|x|0
+356|Lying Beside You|Michael Robotham|Mystery|0|x|0
+357|The Other Wife|Michael Robotham|Mystery|0|x|0
+358|The Dirty South|John Connolly|Mystery|0|x|0
+359|The Nameless Ones|John Connolly|Mystery|0|x|0
+360|The Instruments of Darkness|John Connolly|Mystery|0|x|0
+361|arabaci|saglamdemir|philosophy|0|x|0
+362|beral|piynci|random|0|x|0
+348|pirana|torpak|random|0|x|0

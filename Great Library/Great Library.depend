@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1747597585 source:c:\users\topra\onedrive\belgeler\codeblockprojects\c-examples\great library\book_test.c
+
+1748207374 source:c:\users\topra\onedrive\belgeler\codeblockprojects\c-examples\great library\display.c
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	"user.h"
+	"book.h"
+	"fileProcess.h"
+	"rapor.h"
+	"display.h"
+
+1747604974 source:c:\users\topra\onedrive\belgeler\codeblockprojects\c-examples\great library\main.c
+	<stdio.h>
+	<stdlib.h>
+	"display.h"
+
+1748206519 source:c:\users\topra\onedrive\belgeler\codeblockprojects\c-examples\great library\rapor.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"user.h"
+	"fileProcess.h"
+	"rapor.h"
+
+1747167900 source:c:\users\topra\onedrive\belgeler\codeblockprojects\c-examples\great library\user_test.c
+
+1748206039 source:c:\users\topra\onedrive\belgeler\codeblockprojects\c-examples\great library\book.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"book.h"
+	"user.h"
+	"fileProcess.h"
+
+1748206014 c:\users\topra\onedrive\belgeler\codeblockprojects\c-examples\great library\book.h
+
+1748206210 c:\users\topra\onedrive\belgeler\codeblockprojects\c-examples\great library\user.h
+	"book.h"
+
+1748206136 source:c:\users\topra\onedrive\belgeler\codeblockprojects\c-examples\great library\fileprocess.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"user.h"
+	"book.h"
+	"fileProcess.h"
+
+1748205036 source:c:\users\topra\onedrive\belgeler\codeblockprojects\c-examples\great library\user.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"user.h"
+	"book.h"
+	"fileProcess.h"
+	"rapor.h"
+
+1747566955 c:\users\topra\onedrive\belgeler\codeblockprojects\c-examples\great library\fileprocess.h
+
+1747604612 c:\users\topra\onedrive\belgeler\codeblockprojects\c-examples\great library\rapor.h
+	"user.h"
+
+1747604597 c:\users\topra\onedrive\belgeler\codeblockprojects\c-examples\great library\display.h
+
